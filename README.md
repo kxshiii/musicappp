@@ -1,43 +1,20 @@
-# Project Title
+# Music App
 
-Simple overview of use/purpose.
+Search your favourite songs :)
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+Search your favourite songs and stream them on spotify . You could also add them to a playlist
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Just search a song --- as easy as that
 
 ## Authors
 
 Contributors names and contact info
 
-Calebbii 
+Brian 
 
 
 ## Version History
