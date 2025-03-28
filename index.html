@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Song Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Spotify Song Search</h1>
+        <input type="text" id="searchInput" placeholder="Enter song name (e.g., Tum Hi Ho)">
+        <button id="searchButton">Search</button>
+        <div id="results"></div>
+        <div id="playlistSection">
+            <h2>My Playlist</h2>
+            <ul id="playlist"></ul>
+            <button id="clearPlaylist">Clear Playlist</button>
+        </div>
+        <p class="api-note">Powered by Spotify Web API. Results link to Spotify for streaming.</p>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
